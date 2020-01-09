@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListLigaInggris</string>
+    <string name="club_name">Club</string>
+    <string name="club_description">Deskripsi</string>
+</resources>
